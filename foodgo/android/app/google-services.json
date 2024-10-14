@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460211175907",
+    "project_id": "fooodgo-8f723",
+    "storage_bucket": "fooodgo-8f723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460211175907:android:94641d38b1f79ff73c60d6",
+        "android_client_info": {
+          "package_name": "com.example.foodgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0NQVfz9-hLhUo-yvfujf0JaezIV6Y690"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
